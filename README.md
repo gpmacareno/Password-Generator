@@ -56,4 +56,4 @@ Este proyecto ha sido una oportunidad para dominar y demostrar habilidades en:
 git clone https://github.com/gpmacareno/Password-Generator.git
 cd gestor-contraseñas
 pip install ttkbootstrap cryptography
-python gestor_contrasenas.py
+python GeneradorPass.py
