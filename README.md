@@ -53,7 +53,7 @@ Este proyecto ha sido una oportunidad para dominar y demostrar habilidades en:
 ## 📥 Instalación y ejecución
 
 ```bash
-git clone https://github.com/gpmacareno/Password-Generator.git
-cd gestor-contraseñas
-pip install ttkbootstrap cryptography
-python GeneradorPass.py
+1.Descargar el archivo Zip.
+2.Descomprimir.
+3.Ir a la carpeta "dist".
+4.Ejecutar el .exe.
